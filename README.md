@@ -14,15 +14,15 @@ My main repos are located at SourceHut.
 
 ## Projects
 
-- [!Nix Config](https://sr.ht/~btaidm/NixConfiguration/)
-- [!Resume](https://sr.ht/~btaidm/Resume/)
+- [Nix Config](https://sr.ht/~btaidm/NixConfiguration/)
+- [Resume](https://sr.ht/~btaidm/Resume/)
 
 ## Links
 
-- [!Source Hut](https://sr.ht/~btaidm/)
-- [!Github](https://github.com/programmeroftheeve)
-- [!Mastodon](https://tech.lgbt/@programmeroftheeve)
-- [!LinkedIn](https://www.linkedin.com/in/evebradt/)
+- [Source Hut](https://sr.ht/~btaidm/)
+- [Github](https://github.com/programmeroftheeve)
+- [Mastodon](https://tech.lgbt/@programmeroftheeve)
+- [LinkedIn](https://www.linkedin.com/in/evebradt/)
 
 # Stats
 
