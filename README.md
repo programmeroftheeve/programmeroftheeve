@@ -1,6 +1,6 @@
 # Who am I
 
-I am me! :) My name is Eve! I am a trans femme non-binary person. 
+I am me! :) My name is Eve!
 
 I am a developer interested in C++, Python, and Julia. I also dabble in Rust occasionally.
 While I do have several repos on Github, I am starting to be more active on other source forges.
